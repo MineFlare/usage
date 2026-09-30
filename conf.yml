@@ -1,0 +1,16 @@
+info:
+  name: "Usage"
+  identifier: "usage"
+  description: "Adds an admin Usage tab with combined node RAM, CPU, and disk stats — allocated vs total and live used vs total."
+  flags: ""
+  version: "1.0.0"
+  target: "beta-2024-12"
+  author: "Usage Extension"
+  icon: "icon.png"
+  website: ""
+
+admin:
+  view: "view.blade.php"
+  controller: "controller.php"
+  css: "admin.css"
+  wrapper: "wrapper.blade.php"
