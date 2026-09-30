@@ -11,7 +11,7 @@ The page shows combined RAM, CPU, and disk across every node:
 
 ## Install
 
-1. Copy `usage.blueprint` into your Pterodactyl directory (usually `/var/www/pterodactyl`).
+1. Download `usage.blueprint` from the latest version in the [releases tab](https://github.com/MineFlare/usage/releases), and copy it into your Pterodactyl directory (usually `/var/www/pterodactyl`).
 2. Run:
 
 ```bash
